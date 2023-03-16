@@ -1,0 +1,2 @@
+This is master branch text file.
+This test file purpose is figure out each branch relationship.
