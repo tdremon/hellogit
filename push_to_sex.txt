@@ -1,3 +1,0 @@
-I make this file at dev_c branch.
-but, I will push to sex branch.
-so, let's test!
